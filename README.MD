@@ -1,2 +1,7 @@
-#Steps
+# GAME PROJECT
+
+PARA CORRER EL JUEGO, SIGUE LAS INSTRUCCIONES
+cd game
+python main.py
+
 
